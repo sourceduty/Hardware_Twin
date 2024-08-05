@@ -15,6 +15,8 @@ In addition to providing guidance and troubleshooting support, Hardware Twin hel
 
 This example Python program is a digital twin simulation for a PC used in data processing, designed to model, simulate, and monitor the behavior of key hardware components like the CPU, RAM, storage, and network interface. The program defines classes for these components, each with methods to simulate their usage under varying loads. Users can interact with the program through a command-line interface, choosing to either simulate system behavior over a specified duration, monitor real-time data from the actual hardware using the psutil library, or predict potential performance issues based on the current state. The simulation can run continuously over a specified period with periodic updates, allowing for detailed observation of how the system might perform under different conditions. This makes the program useful for both simulating and monitoring a PC's performance, providing insights into its operational dynamics.
 
+<br>
+
 ```
 import random
 import psutil
