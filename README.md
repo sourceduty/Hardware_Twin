@@ -1,4 +1,4 @@
-![Hardware Twin](https://github.com/user-attachments/assets/9b91b513-27d2-41b7-ab17-c4ea26b00538)
+![Hardware Twin](https://github.com/user-attachments/assets/142a6129-2fd8-4981-9a71-c24dce3e909c)
 
 > Create a digital twin program of computer hardware using Python.
 
